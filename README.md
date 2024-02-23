@@ -1,3 +1,9 @@
+# Integrantes
+Gabriel Destro / 24.122.059-9
+Bruno Andwele / 24.122.030-0
+Enzo Pacheco / 24.122.003-7
+Ana Beatriz Tavares Malheiro / 24.122.019-3
+
 # Green Way
 🌱 Promovendo caminhos mais sustentáveis. Você na direção sustentável! 
 
